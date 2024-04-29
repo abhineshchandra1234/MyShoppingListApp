@@ -8,6 +8,7 @@
 ## Topics Covered
 - LazyColumn
 - AlertDialog
+- Lambda Functions
 ---
 ## 📝 License
 
