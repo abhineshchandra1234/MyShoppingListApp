@@ -116,11 +116,16 @@ fun ShoppingListApp() {
                             sItems = sItems + newItem
                             showDialog = false
                             itemName = ""
+                            itemQuantity = ""
                         }
                     }) {
                         Text(text = "Add")
                     }
-                    Button(onClick = { showDialog = false }) {
+                    Button(onClick = {
+                        showDialog = false
+                        itemName = ""
+                        itemQuantity = ""
+                    }) {
                         Text(text = "Cancel")
                     }
                 }
