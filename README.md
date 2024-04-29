@@ -5,6 +5,14 @@
 - Users can add shopping items and their quantity
 - When the user closes or switches the app all data is lost as it is not stored locally yet
 ---
+## Screenshots
+<p align="center">
+<img src = "https://raw.githubusercontent.com/abhineshchandra1234/MyShoppingListApp/master/app/src/main/res/screenshots/item_list.png" height=300px/>
+  <img src = "https://raw.githubusercontent.com/abhineshchandra1234/MyShoppingListApp/master/app/src/main/res/screenshots/adding_item.png" height=300px/>
+  <img src = "https://raw.githubusercontent.com/abhineshchandra1234/MyShoppingListApp/master/app/src/main/res/screenshots/editing_item.png" height=300px/>
+</p>
+
+---
 ## Topics Covered
 - LazyColumn
 - AlertDialog
