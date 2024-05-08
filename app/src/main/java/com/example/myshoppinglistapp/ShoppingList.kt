@@ -163,9 +163,6 @@ fun ShoppingItemEditor(item: ShoppingItem, onEditComplete: (String, Int) -> Unit
     var editedQuantity by remember {
         mutableStateOf(item.quantity.toString())
     }
-    var isEditing by remember {
-        mutableStateOf(item.isEditing)
-    }
 
     Row(
         modifier = Modifier
