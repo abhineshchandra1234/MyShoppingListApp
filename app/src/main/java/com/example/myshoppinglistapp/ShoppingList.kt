@@ -194,7 +194,6 @@ fun ShoppingItemEditor(item: ShoppingItem, onEditComplete: (String, Int) -> Unit
         }
 
         Button(onClick = {
-            isEditing = false
             onEditComplete(editedName, editedQuantity.toIntOrNull() ?: 1)
         }) {
             Text(text = "Save")
