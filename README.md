@@ -7,9 +7,9 @@
 ---
 ## Screenshots
 <p align="center">
-<img src = "https://raw.githubusercontent.com/abhineshchandra1234/MyShoppingListApp/master/app/src/main/res/screenshots/item_list.png" height=300px/>
-  <img src = "https://raw.githubusercontent.com/abhineshchandra1234/MyShoppingListApp/master/app/src/main/res/screenshots/adding_item.png" height=300px/>
-  <img src = "https://raw.githubusercontent.com/abhineshchandra1234/MyShoppingListApp/master/app/src/main/res/screenshots/editing_item.png" height=300px/>
+<img src = "https://raw.githubusercontent.com/abhineshchandra1234/MyShoppingListApp/master/app/src/main/res/drawable/screenshots/item_list.png" height=300px/>
+  <img src = "https://raw.githubusercontent.com/abhineshchandra1234/MyShoppingListApp/master/app/src/main/res/drawable/screenshots/adding_item.png" height=300px/>
+  <img src = "https://raw.githubusercontent.com/abhineshchandra1234/MyShoppingListApp/master/app/src/main/res/drawable/screenshots/editing_item.png" height=300px/>
 </p>
 
 ---
